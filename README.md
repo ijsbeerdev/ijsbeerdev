@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm ijsbeer</h1>
-<h3 align="center">A passionate developer from The Netherlands</h3>
+<h3 align="center">Designer & Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ijsbeerr&label=Profile%20views&color=0e75b6&style=flat" alt="ijsbeerr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ijsbeerr" alt="ijsbeerr" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ijsbeer.ga](https://ijsbeer.ga)
+- 👨‍💻 All of my projects are available at my website: [https://ijsbeer.ga](https://ijsbeer.ga)
 
-- 📫 How to reach me **discord: ijsbeer#1982**
+- 📫 Reach me on **discord: ijsbeer#1982**
 
 - ⚡ Fun fact **I love dogs!**
 
