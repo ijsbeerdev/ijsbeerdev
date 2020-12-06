@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm ijsbeer</h1>
-<h3 align="center">Designer & Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ijsbeerr&label=Profile%20views&color=0e75b6&style=flat" alt="ijsbeerr" /> </p>
 
