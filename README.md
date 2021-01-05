@@ -4,7 +4,3 @@
 <br>
 
 <p align="center"><a align="center" href="https://www.buymeacoffee.com/ijsbeer"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ijsbeer" /></a></p>
-
-<br><br><br><br><br>
-
-![](https://raw.githubusercontent.com/ijsbeerr/ijsbeerr/master/AS0004461_00.gif)
