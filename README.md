@@ -1,5 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ijsbeerr">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=1000&width=435&lines=Hello%2C+i'm+ijsbeer+and+i+%E2%99%A1+web+development.)](https://git.io/typing-svg)
 ===
 <br>
