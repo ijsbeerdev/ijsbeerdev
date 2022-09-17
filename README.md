@@ -4,7 +4,6 @@
 ===
 <br>
 <p align="center">
-  
   <big>Hi, i'm ijsbeer, a teenager who loves web development.</big> 
   <br>
   🔭 I’m currently working on <b>WRITEHERE</b> (closed source)
