@@ -9,10 +9,9 @@
 
 - 📫 How to reach me **ijsbeer@wawa.lol**
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ijsbeerr&show_icons=true&locale=en&layout=compact" alt="ijsbeerr" /></p>
-
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ijsbeerr&show_icons=true&locale=en" alt="ijsbeerr" /></p>
-
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ijsbeerr&" alt="ijsbeerr" /></p>
