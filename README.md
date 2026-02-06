@@ -5,9 +5,6 @@
       <h1>👋 Hi, I'm Alexander</h1>
     </summary>
   </ul>
-</div>
-  <img src="https://streak-stats.demolab.com?user=ijsbeerdev&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph" />
-</div>
 
 <br clear="both">
 
